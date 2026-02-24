@@ -1,0 +1,13 @@
+{
+  "name": "telegram-preview-proxy",
+  "version": "1.0.0",
+  "description": "Generic Telegram preview proxy for Vercel",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}
